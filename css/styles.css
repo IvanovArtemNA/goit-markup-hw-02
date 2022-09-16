@@ -127,17 +127,25 @@ body {
 
 .section-three {
     color: var(--primary-text-color);
-    font-size: 36px;
-    line-height: 1.16;
     text-align: center;
 }
 
+.four-title {
+    font-size: 36px;
+    line-height: 1.16;
+    font-weight: 700;
+}
+
 .section-four {
+    text-align: center;
+    background-color: var(--background-section-color);
+}
+
+.five-title {
+    font-weight: 700;
     color: var(--primary-text-color);
     font-size: 36px;
     line-height: 1.16;
-    text-align: center;
-    background-color: var(--background-section-color);
 }
 
 .section-four .name {
